@@ -1,6 +1,7 @@
 name: DropProtect
 main: com.virtivia.minecraft.bukkitplugins.dropprotect.DropProtect
-version: 0.4
+version: 0.4.1
+api-version: 1.18 
 author: pavben
 commands:
   dropprotect:
