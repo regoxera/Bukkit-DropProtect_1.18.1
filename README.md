@@ -11,6 +11,10 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 ALSO MYSTERY FOR FUCKS SAKE I DONT NEED YOU TO SPAWN THESE FOR ME I GOT OVER THEM BUT IM ONLY CITING THE REASON IM DOING THIS SHIT
 
+anyways
+>to do
+>do a bodge for the offhand item lol :D
+
 ### DropProtect
 
 Don't want your players losing their entire inventory on death? **DropProtect protects** your **equipment** and **hotbar** slots, while allowing the inner inventory to drop as normal. You may configure it to reduce the number of protected hotbar slots or add additional protected inner inventory slots to suit your server.
